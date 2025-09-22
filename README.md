@@ -1,6 +1,6 @@
-# Deutsche_Buecher – A1 Notes
+# Deutsche_Buecher – Notes
 
-This repository contains my personal German learning notes from A1-level books.  
+This repository contains my personal German learning notes from books.  
 The first book I’m working on is **Ein Hundeleben (Leo & Co.)**.
 
 ## 📖 What’s inside?
