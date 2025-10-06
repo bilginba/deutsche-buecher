@@ -1,48 +1,48 @@
 # Vokabelliste aus _Ein Hundeleben_ – Kapitel 2
 
-| Deutsch ## 3. Wochenlang / Tagelang | Formen / Plural                     | Englisch                        |
-| :---------------------------------- | :---------------------------------- | :------------------------------ |
-| kurz                                | -                                   | short(ly), brief(ly)            |
-| die Uhr                             | die Uhren                           | clock, hour                     |
-| treffen (sich)                      | trifft – hat getroffen              | to meet (each other)            |
-| der Kollege                         | die Kollegen                        | colleague (male)                |
-| die Kollegin                        | die Kolleginnen                     | colleague (female)              |
-| der Ausgang                         | die Ausgänge                        | exit                            |
-| der Messeausgang                    | die Messeausgänge                   | trade fair exit                 |
-| das Bier                            | die Biere                           | beer                            |
-| jemand                              | -                                   | someone, anyone                 |
-| mitkommen                           | kommt mit – ist mitgekommen         | to come along                   |
-| fragen                              | fragt – hat gefragt                 | to ask                          |
-| nee (ugs.)                          | -                                   | no (informal)                   |
-| kaputt                              | -                                   | broken / exhausted (colloquial) |
-| hundemüde                           | -                                   | dead tired                      |
-| morgen                              | -                                   | tomorrow                        |
-| vielleicht                          | -                                   | maybe                           |
-| der Grund                           | die Gründe                          | reason                          |
-| der Schlaftrunk                     | die Schlaftrünke (selten)           | nightcap                        |
-| warten                              | wartet – hat gewartet               | to wait                         |
-| stehen bleiben                      | bleibt stehen – ist stehengeblieben | to stop, come to a halt         |
-| sagen                               | sagt – hat gesagt                   | to say                          |
-| fahren                              | fährt – ist gefahren                | to drive, go                    |
-| wegfahren                           | fährt weg – ist weggefahren         | to go away                      |
-| das Haustier                        | die Haustiere                       | pet                             |
-| verstehen                           | versteht – hat verstanden           | to understand, know about       |
-| das Messegelände                    | die Messegelände                    | fairground, exhibition site     |
-| verschlafen                         | verschläft – hat verschlafen        | to oversleep                    |
-| die Ahnung                          | die Ahnungen                        | idea, clue                      |
-| packen                              | packt – hat gepackt                 | to pack                         |
-| die Kiste                           | die Kisten                          | box, crate                      |
-| anrufen                             | ruft an – hat angerufen             | to call (on the phone)          |
-| vorher                              | -                                   | before, beforehand              |
-| der Laster                          | die Laster                          | truck, lorry                    |
-| der Lastwagen                       | die Lastwagen                       | truck                           |
-| die Halle                           | die Hallen                          | hall                            |
-| einladen                            | lädt ein – hat eingeladen           | to load in / to invite          |
-| der Feierabend                      | -                                   | end of the workday              |
-| die Runde                           | die Runden                          | round, lap                      |
-| die Jungs (ugs.)                    | - (Plural only)                     | guys, boys                      |
-| Quatsch                             | -                                   | nonsense!                       |
-| der Köter (ugs.)                    | die Köter                           | mutt, cur (negative for dog)    |
+| Deutsch          | Formen / Plural                     | Englisch                        |
+| :--------------- | :---------------------------------- | :------------------------------ |
+| kurz             | -                                   | short(ly), brief(ly)            |
+| die Uhr          | die Uhren                           | clock, hour                     |
+| treffen (sich)   | trifft – hat getroffen              | to meet (each other)            |
+| der Kollege      | die Kollegen                        | colleague (male)                |
+| die Kollegin     | die Kolleginnen                     | colleague (female)              |
+| der Ausgang      | die Ausgänge                        | exit                            |
+| der Messeausgang | die Messeausgänge                   | trade fair exit                 |
+| das Bier         | die Biere                           | beer                            |
+| jemand           | -                                   | someone, anyone                 |
+| mitkommen        | kommt mit – ist mitgekommen         | to come along                   |
+| fragen           | fragt – hat gefragt                 | to ask                          |
+| nee (ugs.)       | -                                   | no (informal)                   |
+| kaputt           | -                                   | broken / exhausted (colloquial) |
+| hundemüde        | -                                   | dead tired                      |
+| morgen           | -                                   | tomorrow                        |
+| vielleicht       | -                                   | maybe                           |
+| der Grund        | die Gründe                          | reason                          |
+| der Schlaftrunk  | die Schlaftrünke (selten)           | nightcap                        |
+| warten           | wartet – hat gewartet               | to wait                         |
+| stehen bleiben   | bleibt stehen – ist stehengeblieben | to stop, come to a halt         |
+| sagen            | sagt – hat gesagt                   | to say                          |
+| fahren           | fährt – ist gefahren                | to drive, go                    |
+| wegfahren        | fährt weg – ist weggefahren         | to go away                      |
+| das Haustier     | die Haustiere                       | pet                             |
+| verstehen        | versteht – hat verstanden           | to understand, know about       |
+| das Messegelände | die Messegelände                    | fairground, exhibition site     |
+| verschlafen      | verschläft – hat verschlafen        | to oversleep                    |
+| die Ahnung       | die Ahnungen                        | idea, clue                      |
+| packen           | packt – hat gepackt                 | to pack                         |
+| die Kiste        | die Kisten                          | box, crate                      |
+| anrufen          | ruft an – hat angerufen             | to call (on the phone)          |
+| vorher           | -                                   | before, beforehand              |
+| der Laster       | die Laster                          | truck, lorry                    |
+| der Lastwagen    | die Lastwagen                       | truck                           |
+| die Halle        | die Hallen                          | hall                            |
+| einladen         | lädt ein – hat eingeladen           | to load in / to invite          |
+| der Feierabend   | -                                   | end of the workday              |
+| die Runde        | die Runden                          | round, lap                      |
+| die Jungs (ugs.) | - (Plural only)                     | guys, boys                      |
+| Quatsch          | -                                   | nonsense!                       |
+| der Köter (ugs.) | die Köter                           | mutt, cur (negative for dog)    |
 
 ---
 
