@@ -1,7 +1,7 @@
 # Deutsche_Buecher – Notes
 
 This repository contains my personal German learning notes from books.  
-The first book I’m working on is **Ein Hundeleben (Leo & Co.)**.
+The first book I’m working on is **Ein Hundeleben**.
 
 ## 📖 What’s inside?
 - **Vocabulary lists** (with articles, plurals, and English meanings)
