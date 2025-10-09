@@ -88,16 +88,5 @@ Each grammar note builds directly on earlier chapters, allowing for natural revi
 
 ---
 
-## 🔧 Formatting & Style Rules
-
--   Use **Markdown tables** for clarity.
--   Separate all sections with `---` lines.
--   Keep translations in **natural English**.
--   Group words **by context**, not alphabetically.
--   Avoid redundant idioms — include only **fixed or semi-fixed** ones.
--   Maintain consistent icons (`📚`, `💡`) for visual navigation.
-
----
-
 **Author:** Batuhan Bilgin  
 _This project is part of my A1–A2 German learning system for structured comprehension and grammar immersion._
