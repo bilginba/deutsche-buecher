@@ -67,7 +67,7 @@ Wenn ein Adverb oder eine Zeitangabe am Satzanfang steht, folgt das Verb an zwei
 
 ## 3. Ergänzung: Modalpartikeln (neu in diesem Kapitel)
 
-Diese Wörter erweitern die schon bekannten Partikeln (_ja, doch, noch, mal, eigentlich_ aus früheren Kapiteln):
+Diese Wörter ergänzen bereits bekannte Partikeln (_ja, doch, noch, mal, eigentlich_).
 
 | Partikel       | Bedeutung                       | Beispiel / Wirkung                |
 | :------------- | :------------------------------ | :-------------------------------- |
@@ -86,11 +86,8 @@ Diese Wörter erweitern die schon bekannten Partikeln (_ja, doch, noch, mal, eig
 | **die Sache**      | item, belonging, or matter / issue | _Ich kaufe die Sachen für Fips._ / _Das ist meine Sache._ |
 | **der Gegenstand** | formal, physical object            | _Ein metallischer Gegenstand liegt auf dem Tisch._        |
 
-🧠 **Merke:**
-
--   _Ding_ → everyday, neutral, physical.
--   _Sache_ → item or abstract matter (context-dependent).
--   _Gegenstand_ → formal, specific object.
+🧠 **Merke:**  
+_Ding_ → neutral / everyday, _Sache_ → item or matter, _Gegenstand_ → formal object.
 
 ---
 
@@ -104,9 +101,9 @@ Diese Wörter erweitern die schon bekannten Partikeln (_ja, doch, noch, mal, eig
 
 ---
 
-## 6. Häufige Wendungen aus dem Kapitel
+# 💡 Idiomatische Wendungen
 
-| Ausdruck                     | Übersetzung                 |
+| Ausdruck                     | Bedeutung / Übersetzung     |
 | :--------------------------- | :-------------------------- |
 | **Ganz schön viel!**         | Quite a lot!                |
 | **Da kommt ihm eine Idee.**  | An idea occurs to him.      |

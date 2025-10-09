@@ -1,105 +1,137 @@
 # Vokabelliste aus _Ein Hundeleben_ – Kapitel 1
 
-| Deutsch             | Formen / Plural            | Englisch                          |
-| :------------------ | :------------------------- | :-------------------------------- |
-| der Wecker          | die Wecker                 | alarm clock                       |
-| die Wohnung         | die Wohnungen              | apartment, flat                   |
-| das Lokal           | die Lokale                 | pub, restaurant, small bar        |
-| der Besitzer        | die Besitzer               | owner                             |
-| der Job             | die Jobs                   | job                               |
-| der Messe-Stand     | die Messe-Stände           | exhibition stand, fair booth      |
-| der Aufbau          | die Aufbauten              | setup, construction               |
-| der Abbau           | die Abbauten               | dismantling, taking down          |
-| das Zubehör         | -                          | accessories, equipment            |
-| die Kantine         | die Kantinen               | canteen                           |
-| das Tablett         | die Tabletts               | tray                              |
-| der Teller          | die Teller                 | plate                             |
-| das Studium         | die Studien                | (university) studies              |
-| die Reise           | die Reisen                 | trip, journey                     |
-| die Yacht           | die Yachten                | yacht                             |
-| klingeln            | klingelt – hat geklingelt  | to ring                           |
-| aufwachen           | wacht auf – ist aufgewacht | to wake up                        |
-| umdrehen            | dreht um – hat umgedreht   | to turn around                    |
-| weiterschlafen      | schläft weiter – hat ...   | to keep sleeping                  |
-| aufstehen           | steht auf – ist ...        | to get up                         |
-| ausmachen           | macht aus – hat ...        | to turn off (device, light)       |
-| sich (Dativ) holen  | holt sich – hat ...        | to get oneself                    |
-| sich reiben         | reibt sich – hat gerieben  | to rub (body part)                |
-| ausstellen          | stellt aus – hat ...       | to exhibit, display               |
-| abbauen             | baut ab – hat ...          | to dismantle                      |
-| verdienen           | verdient – hat ...         | to earn                           |
-| auswählen           | wählt aus – hat ...        | to select, choose                 |
-| erzählen von (+Dat) | erzählt – hat erzählt      | to talk about, tell about         |
-| unterwegs (sein)    | -                          | to be on the way, traveling       |
-| klein               | -                          | small                             |
-| lustig              | -                          | funny, amusing                    |
-| teuer               | -                          | expensive                         |
-| international       | -                          | international                     |
-| morgens             | -                          | in the morning                    |
-| weiter              | -                          | further, continuing               |
-| zur Zeit            | -                          | at the moment                     |
-| gleich              | -                          | almost, any minute now            |
-| mindestens          | -                          | at least                          |
-| länger              | -                          | longer                            |
-| noch nie            | -                          | never (until now)                 |
-| nie                 | -                          | never (general)                   |
-| eigentlich          | -                          | actually, really                  |
-| doch (Partikel)     | -                          | adds emphasis / softens a request |
-| alle sein           | -                          | to be gone, used up (colloquial)  |
+| Deutsch                | Formen / Plural                       | Englisch                               |
+| :--------------------- | :------------------------------------ | :------------------------------------- |
+| der Wecker             | die Wecker                            | alarm clock                            |
+| klingeln               | klingelt – hat geklingelt             | to ring                                |
+| aufwachen              | wacht auf – ist aufgewacht            | to wake up                             |
+| umdrehen (sich)        | dreht sich um – hat sich umgedreht    | to turn around                         |
+| weiterschlafen         | schläft weiter – hat weitergeschlafen | to keep sleeping                       |
+| aufstehen              | steht auf – ist aufgestanden          | to get up                              |
+| ausmachen              | macht aus – hat ausgemacht            | to turn off (device, alarm, light)     |
+| reiben (sich)          | reibt sich – hat gerieben             | to rub (one’s eyes)                    |
+| das Auge               | die Augen                             | eye                                    |
+| der Besitzer           | die Besitzer                          | owner                                  |
+| der Koch               | die Köche                             | cook, chef                             |
+| leidenschaftlich       | –                                     | passionate                             |
+| die Kneipe             | die Kneipen                           | pub, bar                               |
+| das Lokal              | die Lokale                            | restaurant, pub                        |
+| gemütlich              | –                                     | cozy, comfortable                      |
+| preiswert              | –                                     | inexpensive, good value                |
+| helfen                 | hilft – hat geholfen                  | to help                                |
+| die Miete              | die Mieten                            | rent                                   |
+| zur Zeit               | –                                     | at the moment                          |
+| der Job                | die Jobs                              | job                                    |
+| die Messe              | die Messen                            | fair, exhibition                       |
+| der Aufbau             | die Aufbauten                         | setup, construction                    |
+| der Abbau              | die Abbauten                          | dismantling, taking down               |
+| verdienen              | verdient – hat verdient               | to earn                                |
+| das Geld               | –                                     | money                                  |
+| das Hobby              | die Hobbys                            | hobby                                  |
+| der Beruf              | die Berufe                            | profession, occupation                 |
+| das Studium            | die Studien                           | (university) studies                   |
+| das Auto               | die Autos                             | car                                    |
+| die Bank               | die Banken                            | bank                                   |
+| überlegen (sich)       | überlegt sich – hat sich überlegt     | to think about, consider               |
+| die Reise              | die Reisen                            | trip, journey                          |
+| das Ausland            | –                                     | abroad                                 |
+| Australien             | –                                     | Australia                              |
+| das Känguru            | die Kängurus                          | kangaroo                               |
+| das Wasser             | –                                     | water                                  |
+| die Wohnung            | die Wohnungen                         | apartment, flat                        |
+| der Tisch              | die Tische                            | table                                  |
+| der Kollege            | die Kollegen                          | colleague                              |
+| das Tablett            | die Tabletts                          | tray                                   |
+| der Teller             | die Teller                            | plate                                  |
+| die Kantine            | die Kantinen                          | canteen                                |
+| erzählen von (+Dat.)   | erzählt – hat erzählt                 | to talk about, tell about              |
+| die Welt               | die Welten                            | world                                  |
+| lustig                 | –                                     | funny, amusing                         |
+| unterwegs (sein)       | –                                     | to be on the way, traveling            |
+| mindestens             | –                                     | at least                               |
+| länger                 | –                                     | longer                                 |
+| alle sein _(ugs.)_     | –                                     | to be used up, to be gone (colloquial) |
+| eigentlich             | –                                     | actually, really                       |
+| doch _(Modalpartikel)_ | –                                     | adds friendliness or emphasis          |
 
 ---
 
 # 📚 Grammatik-Notizen
 
-## 1. Separable Verbs
+## 1. Trennbare Verben (Separable Verbs)
 
-Prefixes split in present tense and go to the end:  
-_z.B._ **aufstehen, ausmachen, weiterschlafen, umdrehen, abbauen, ausstellen**.  
-👉 _Benno steht um 7 Uhr auf._
+| Regel                                                                                          | Beispiel                        | Bedeutung                     |
+| :--------------------------------------------------------------------------------------------- | :------------------------------ | :---------------------------- |
+| Prefix moves to sentence end in present tense.                                                 | _Benno steht um sechs Uhr auf._ | Benno gets up at six o’clock. |
+| Common verbs: _aufstehen, ausmachen, aufwachen, umdrehen, weiterschlafen, abbauen, ausstellen_ | –                               | –                             |
 
 ---
 
-## 2. Reflexive Verbs with Dativ + Akkusativ
+## 2. Reflexive Verben mit Dativ + Akkusativ
 
-With body parts, reflexive pronoun in **Dativ**, body part in **Akkusativ**.  
-👉 _Ich reibe mir die Augen._
+| Typ                           | Struktur                       | Beispiel                   |
+| :---------------------------- | :----------------------------- | :------------------------- |
+| Reflexive + body part         | Dativ pronoun + Akkusativ noun | _Ich reibe mir die Augen._ |
+| Whole-body action (no object) | Akkusativ                      | _Er wäscht sich._          |
 
--   **Dativ = person (mir/dir/sich)**
--   **Akkusativ = body part**
+💡 _Dativ_ = the person; _Akkusativ_ = the body part.
 
 ---
 
 ## 3. noch nie vs. nie
 
--   **nie** = never in general → _Ich gehe nie ins Kino._
--   **noch nie** = never until now → _Ich war noch nie in Australien._
+| Ausdruck     | Bedeutung          | Beispiel                          |
+| :----------- | :----------------- | :-------------------------------- |
+| **nie**      | never (in general) | _Ich gehe nie ins Kino._          |
+| **noch nie** | never until now    | _Ich war noch nie in Australien._ |
 
 ---
 
-## 4. Adjective Endings in Dativ
+## 4. Adjektivdeklination im Dativ
 
-Adjectives after articles in Dativ take **-en**.  
+After definite or indefinite articles, adjectives take **-en** in Dativ.  
 👉 _in einer kleinen Wohnung_
+
+| Artikel   | Beispiel                   | Erklärung        |
+| :-------- | :------------------------- | :--------------- |
+| der/dem   | _mit dem alten Freund_     | masculine/neuter |
+| der/einer | _in einer kleinen Wohnung_ | feminine         |
+| den + -n  | _mit den netten Kollegen_  | plural           |
 
 ---
 
 ## 5. Modalpartikel **doch**
 
-Adds friendliness or softens requests.  
-👉 _Bring mir doch ein Känguru mit!_ = “Why don’t you bring me a kangaroo!”
+Softens requests or adds emphasis.  
+👉 _Bring mir doch ein Känguru mit!_ → “Why don’t you bring me a kangaroo!”
+
+| Wirkung                 | Beispiel             | Bedeutung           |
+| :---------------------- | :------------------- | :------------------ |
+| Vorschlag / Einladung   | _Komm doch mit!_     | Come on, join us!   |
+| Überraschung / Betonung | _Das ist doch klar!_ | But that’s obvious! |
 
 ---
 
-## 6. **alle sein** (colloquial)
+## 6. **alle sein** _(ugs.)_
 
-Means something is used up / gone.  
-👉 _Das Geld ist alle._
+Used when something is used up / gone.  
+👉 _Das Geld ist alle._ → The money is gone.
 
 ---
 
 ## 7. unterwegs
 
-Adverb meaning “on the way, traveling, out and about.”  
+Adverb meaning “on the way / traveling.”  
 👉 _Ich bin unterwegs nach Berlin._
+
+---
+
+# 💡 Idiomatische Wendungen
+
+| Ausdruck                                | Bedeutung / Übersetzung         |
+| :-------------------------------------- | :------------------------------ |
+| **Das Geld ist alle.**                  | The money is gone.              |
+| **Na, bring mir doch ein Känguru mit!** | Well then, bring me a kangaroo! |
+| **Zur Zeit hat er einen Job.**          | At the moment, he has a job.    |
 
 ---
