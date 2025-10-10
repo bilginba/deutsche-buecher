@@ -102,8 +102,7 @@ After definite or indefinite articles, adjectives take **-en** in Dativ.
 
 ## 5. Modalpartikel **doch**
 
-Softens requests or adds emphasis.  
-👉 _Bring mir doch ein Känguru mit!_ → “Why don’t you bring me a kangaroo!”
+Softens requests or adds emphasis.
 
 | Wirkung                 | Beispiel             | Bedeutung           |
 | :---------------------- | :------------------- | :------------------ |
@@ -132,6 +131,9 @@ Adverb meaning “on the way / traveling.”
 | :-------------------------------------- | :------------------------------ |
 | **Das Geld ist alle.**                  | The money is gone.              |
 | **Na, bring mir doch ein Känguru mit!** | Well then, bring me a kangaroo! |
-| **Zur Zeit hat er einen Job.**          | At the moment, he has a job.    |
+
+👉 _Bring mir doch ein Känguru mit!_
+**Explanation:**
+This phrase is a friendly, playful way to ask someone to bring you something unusual (in this case, a kangaroo). The word "doch" adds encouragement or softens the request, making it sound less direct and more inviting—almost like saying "Go on, bring me a kangaroo!" or "Why don’t you bring me a kangaroo!". It's not a serious demand, but a humorous suggestion, showing how "doch" can make requests sound more casual and friendly.
 
 ---
