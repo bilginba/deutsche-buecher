@@ -12,8 +12,6 @@ The goal is to create clear, chapter-based Markdown files that can later be reus
 
 -   Personal study
 -   Flashcard generation
--   Integration into learning apps (Vue / React Native)
--   Export to PDF or online reading format
 
 ---
 
